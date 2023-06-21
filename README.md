@@ -1,4 +1,5 @@
-# sublime_script
+# Title: sublime_script
+Author: G0TH3R
  
 >[!info] Simple script to download and install sublime
 > Works with a Debian based installation and apt as your package manager.
@@ -30,3 +31,12 @@ chmod +x sublime_script
 ### Step 3: Execute the script
 ```bash
 sudo ./sublime_script
+
+
+Copyright 2021 G0TH3R
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
